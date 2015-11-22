@@ -1,0 +1,43 @@
+/*********************
+GENERAL
+*********************/
+a {
+	text-decoration: none;
+}
+
+img {
+	max-width: 100%;
+}
+
+/*********************
+HEADING
+*********************/
+
+#logo {
+	text-align: center;
+}
+
+h1 {
+	font-family: 
+	margin: 15px 0;
+	font-size: 1.75em;
+	font-weight: normal;
+	line-height: 0.8em;
+}
+
+h2 {
+	font-size: 0.75em;
+	margin: -5px 0 0;
+	font-weight: normal;
+}
+
+/*********************
+NAVIGATION
+*********************/
+
+nav {
+	text-align: center;
+	padding: 10px 0;
+	margin: 20px 0 0;
+}
+
